@@ -1,3 +1,7 @@
+/*
+* Programmer : Ayan Chaudhury
+*/
+
 #include<stdio.h>
 int main()
 {
