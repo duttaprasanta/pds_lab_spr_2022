@@ -1,1 +1,9 @@
 *.exe
+*.out
+*/*.out
+*/*.exe
+.vscode
+*/.vscode
+*/.gitignore
+.git
+*/.git
