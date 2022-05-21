@@ -1,5 +1,5 @@
 /*
-Coder:
+Coder:  Debarati Bhattacharjee
 
 Working Example 1:
    Enter 10 x-coordinates: 8 2 11 6 5 4 12 9 6 1
