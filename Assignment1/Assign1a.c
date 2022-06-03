@@ -11,7 +11,7 @@ int main(int argc, char const *argv[])
     double u,alpha,time;
     printf("Enter the values of a, u, alpha & time (space seperated) : ");
     scanf("%i %lf %lf %lf",&a,&u,&alpha, &time);
-    /* Here we are actually calculating the distance in 2d. Hence 
+    /* Here we are actually calculating the distance in 1d. Hence 
     * dist = abs(final_x_coordinate - origin's x coordinate)
     * = abs(final_x_coordinate)
     * = abs(a + u*time + 0.5 * time *time * alpha)
